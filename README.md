@@ -38,7 +38,8 @@ I follow a **systematic and adversarial approach** to reviews:
 ---
 
 ## 📑 Completed Reports  
-- ✅ **PasswordStore** – [2025-09-14 Report](./2025-09-14_PasswordStore_report.pdf)  
+- ✅ **PasswordStore** – [2025-09-14 Report](./2025-09-14_PasswordStore_report.pdf)
+- ✅ **PuppyRaffle** – [2025-09-22 Report](./2025-09-22_PuppyRaffle_report.pdf)  
 
 ---
 
