@@ -52,7 +52,7 @@ I follow a **systematic and adversarial approach** to reviews:
 
 ## 🚀 Let’s Connect  
 - GitHub: [0xZHD](https://github.com/0xZHD)  
-- Twitter/X: [Zahedul Sadik](https://x.com/islam_zahe39951) 
+- Twitter/X: [Zahedul I Sadik](https://x.com/0xZHD_X)) 
 - LinkedIn: *(optional)*  
 
 ---
